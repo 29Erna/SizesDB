@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<game>
-    <title>
-        Persona 5
-    </title>
-    <platform>
-        PlayStation 3
-    </platform>
-    <store>
-        PlayStation Store
-    </store>
-    <size>
-        <number>
-            16.6
-        </number>
-        <measure>
-            GB
-        </measure>
-    </size>
-</game>
+<database>
+    <game>
+        <title>
+            Persona 5
+        </title>
+        <platform>
+            PlayStation 3
+        </platform>
+        <size>
+            <number>
+                16.6
+            </number>
+            <measure>
+                GB
+            </measure>
+        </size>
+    </game>
+</database>
